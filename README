@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3195
+
+This is my base .vimrc that I synchronise between all my machines, there's nothing fancy here, just some syntax, line numbers and some other niceties.
